@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+.add-movie {
+    margin: 1rem;
+}
+.submit-btn {
+    text-align: center;
+}
+.filter-movies input {
+    margin: auto 0.3rem;
+}
+.movies-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 20px;
+}
